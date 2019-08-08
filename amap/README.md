@@ -1,4 +1,4 @@
-# cesium-map
+# amap-mockup
 
 ## Project setup
 ```
